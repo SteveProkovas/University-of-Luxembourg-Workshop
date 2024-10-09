@@ -7,7 +7,7 @@ This repository contains a simple Python implementation of a linear regression m
 - [Model Explanation](#model-explanation)
 - [Code Overview](#code-overview)
 - [Running the Code](#running-the-code)
-- [Contributing](#contributing)
+- [Workshop Slides](#workshop-slides)
 - [License](#license)
 
 ## Overview
@@ -62,6 +62,9 @@ python predict_exam_scores.py
 ### Requirements
 - Python 3.x
 - No external libraries are required for this implementation.
+
+## Workshop Slides
+You can view the slides from the *University of Luxembourg Workshop* [here](https://docs.google.com/presentation/d/1Urk_tFU8MavFMdgnK7dFgr8Fufcu3NTzFLQyFileh08/edit#slide=id.g308e6baee55_0_59).
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
