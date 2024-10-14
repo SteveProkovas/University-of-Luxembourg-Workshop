@@ -56,7 +56,7 @@ To run this project, clone the repository and execute the Python script.
 ```bash
 git clone https://github.com/SteveProkovas/University-of-Luxembourg-Workshop.git
 cd University-of-Luxembourg-Workshop
-python predict_exam_scores.py
+python Example.py
 ```
 
 ### Requirements
