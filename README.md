@@ -47,7 +47,6 @@ Here’s a simplified explanation of the code:
 data = [(1, 50), (3, 65), (5, 80)]  # Training data
 w = 10.0  # Initial guess for parameter
 learning_rate = 0.01  # Learning rate
-# Model training logic...
 ```
 
 ## Running the Code
