@@ -42,13 +42,6 @@ Here’s a simplified explanation of the code:
     - Checks for convergence.
 3. **Final Output**: Prints the learned value of \( w \) and the final predictions.
 
-```python
-# Sample Code Snippet
-data = [(1, 50), (3, 65), (5, 80)]  # Training data
-w = 10.0  # Initial guess for parameter
-learning_rate = 0.01  # Learning rate
-```
-
 ## Running the Code
 To run this project, clone the repository and execute the Python script.
 
